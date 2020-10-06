@@ -1,0 +1,11 @@
+state: enabled
+email: root@grav.org
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: Root
+title: null
+hashed_password: $2y$10$Fz22V.xdQ3Zvh6XnGPR0t.5fgkbC0AhIPKZDHc.nbO/zUWrIgjXd2
